@@ -15,7 +15,7 @@
 	Enterprise Application Name to which the Users and Groups need to be copied.
 
 .Example
-	PS C:\WINDOWS\system32> C:\MySampleScripts\Moving EA Roles and Users.ps1
+	PS C:\WINDOWS\system32> C:\MySampleScripts\AzureActiveDirectoryOperations\MovingAppUsersAndRoleAssigments.ps1
 
 #>
 
