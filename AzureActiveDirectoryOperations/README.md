@@ -3,6 +3,6 @@ Here you will find sample scripts for various use cases under Azure Active Direc
 
 ## List of Scripts:
 
-| FileName | PowerShell Gallery link |
+| FileName | Purpose/Description |
 | ----------- | ----------------------- |
 | CopyingAppUsersAndRoleAssigments.ps1 | Copy Users/Groups and Role Assignments from Enterprise Application to the other |
