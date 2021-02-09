@@ -1,7 +1,7 @@
 ﻿<#
 .SYNOPSIS
 	Copy Users/Groups and Role Assignments from Enterprise Application to the other.
-	Source: https://github.com/Sujai-Sparks/SampleScripts/AzureActiveDirectoryOperations/MovingAppUsersAndRoleAssigments.ps1
+	Source: https://github.com/Sujai-Sparks/SampleScripts/blob/main/AzureActiveDirectoryOperations/MovingAppUsersAndRoleAssigments.ps1
 
 .DESCRIPTION
 	This Sample powershell script copies the Groups and Users and their role assignments from Enterprise Application to the other in the same AAD. 
